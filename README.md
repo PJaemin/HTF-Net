@@ -1,12 +1,14 @@
 # HTF-Net [2022 ICIP]
 
 ### Jaemin Park, An Gia Vien, Jin-Hwan Kim, and Chul Lee
-Official pytorch implementation for **"Histogram-based transformation function estimation for low-light image enhancement,"** in Proc. IEEE International Conference on Image Processing (ICIP), Bordeaux, France, Oct. 2022, pp. 1–5.
+Official pytorch implementation for **"Histogram-based transformation function estimation for low-light image enhancement,"** in Proc. IEEE International Conference on Image Processing (ICIP), Bordeaux, France, Oct. 2022, pp. 1–5.<br/>
+[Paper](https://ieeexplore.ieee.org/abstract/document/9897778?casa_token=Jx-JhbzdyPsAAAAA:_4tgNyj87FvOt5Vu4CNuj0wxI34ddVmb78_xxUhCuLo_ImwIryi4CNoFcEI-gW8kXw-rGkK68sJZ9Q)
 
 
 <p float="left">
   &emsp;&emsp; <img src="overview0.png" width="800" />
 </p>
+
 
 You can train and test the algorithm by running **lowlight_train.py** and **lowlight_test.py**.
 
