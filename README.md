@@ -14,10 +14,10 @@ You can train and test the algorithm by running **lowlight_train.py** and **lowl
 1. Input images: ./data/train_data/input
 2. Ground-truth: ./data/train_data/gt
 
-Do not generate ./data/train_data/curves.\\
-When you first train the algorithm, ./data/train_data/curves will be generated automatically.\\
-Then, the ground-truth transformation functions for training will be automatically downloaded on ./data/train_data/curves.\\
-Note that the input image and corresponding ground-truth files must have the same file name.\\
+Do not generate ./data/train_data/curves.<br/>
+When you first train the algorithm, ./data/train_data/curves will be generated automatically.<br/>
+Then, the ground-truth transformation functions for training will be automatically downloaded on ./data/train_data/curves.<br/>
+Note that the input image and corresponding ground-truth files must have the same file name.<br/>
 Trained weights(.pth file) will be saved as 'models/Img_final.pth'. 
 
 # Test data path
