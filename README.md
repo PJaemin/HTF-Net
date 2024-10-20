@@ -5,7 +5,7 @@ Official pytorch implementation for **"Histogram-based transformation function e
 
 
 <p float="left">
-  &emsp;&emsp; <img src="overview.PNG" width="800" />
+  &emsp;&emsp; <img src="overview7.pdf" width="800" />
 </p>
 
 You can train and test the algorithm by running **lowlight_train.py** and **lowlight_test.py**.
