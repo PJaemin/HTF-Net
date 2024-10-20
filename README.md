@@ -18,7 +18,7 @@ You can train and test the algorithm by running **lowlight_train.py** and **lowl
 
 Do not generate ./data/train_data/curves.<br/>
 When you first train the algorithm, ./data/train_data/curves will be generated automatically.<br/>
-Then, the ground-truth transformation functions for training will be automatically downloaded on ./data/train_data/curves.<br/>
+Then, the ground-truth transformation functions for training will be automatically calculated and saved on ./data/train_data/curves.<br/>
 Note that the input image and corresponding ground-truth files must have the same file name.<br/>
 Trained attention network and HTF-Net weights(.pth file) will be saved as 'models/att_final.pth' and 'models/Img_final.pth', respectively. 
 
