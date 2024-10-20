@@ -13,6 +13,7 @@ You can train and test the algorithm by running **lowlight_train.py** and **lowl
 ## Training data path
 1. Input images: ./data/train_data/input
 2. Ground-truth: ./data/train_data/gt
+
 Do not generate ./data/train_data/curves.
 When you first train the algorithm, ./data/train_data/curves will be generated automatically.
 Then, the ground-truth transformation functions for training will be automatically downloaded on ./data/train_data/curves.
