@@ -18,7 +18,7 @@ Do not generate ./data/train_data/curves.<br/>
 When you first train the algorithm, ./data/train_data/curves will be generated automatically.<br/>
 Then, the ground-truth transformation functions for training will be automatically downloaded on ./data/train_data/curves.<br/>
 Note that the input image and corresponding ground-truth files must have the same file name.<br/>
-Trained weights(.pth file) will be saved as 'models/Img_final.pth'. 
+Trained attention network and HTF-Net weights(.pth file) will be saved as 'models/att_final.pth' and 'models/Img_final.pth', respectively. 
 
 # Test data path
 1. Input images: ./data/test_data/[your folder]
